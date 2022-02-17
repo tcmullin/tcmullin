@@ -1,4 +1,4 @@
-- Hi, I’m Tristan Mullins, a Computer Science student at NC State University.
+- Hi, I’m Tristan Mullins, a Computer Science student at NC State University. I am involved in NC State's HackPack Club, as well as the AI Club. 
 I’m interested in Cybersecurity, Cloud Computing, AI/ML, and Distributed Systems. This is where all of my learning ventures will live.
 
 <!---
